@@ -4,7 +4,7 @@ Monthly Sales Forecasting with ARIMA Models" is a guide to predicting sales tren
 
 # Forecasting with ARIMA and Seasonal ARIMA
 
-The [Jupyter notebook]() provides a comprehensive guide to forecasting using ARIMA and Seasonal ARIMA models. It is designed to walk through the process of analyzing monthly sales data, from data cleaning to final predictions.
+The (Jupyter notebook)[https://github.com/Sanjukta2212/Monthly-Sales-Forecasting-with-ARIMA-Models/blob/main/Forecasting.ipynb] provides a comprehensive guide to forecasting using ARIMA and Seasonal ARIMA models. It is designed to walk through the process of analyzing monthly sales data, from data cleaning to final predictions.
 
 ## Overview
 
